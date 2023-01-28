@@ -2,17 +2,8 @@ body{
     text-align: center;
 }
 
-img {
-    width: 300px;
-    height: 200px;
-}
-
 .items {
     display: flex;
     justify-content: center;
     gap: 52px;
-}
-  
-.item {
-    max-width: 200px;
 }
